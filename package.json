@@ -1,13 +1,13 @@
 {
-  "name": "@contentful/field-editors",
+  "name": "@alation-www/field-editors",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React components and apps for building Contentful entry editor",
   "author": "Contentful GmbH",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/contentful/field-editors"
+    "url": "https://github.com/william-rossen-alation/field-editors"
   },
   "scripts": {
     "start": "yarn storybook",
